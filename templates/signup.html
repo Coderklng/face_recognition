@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Signup</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-r from-pink-500 to-orange-500 flex justify-center items-center h-screen">
+
+<div class="bg-black backdrop-blur-lg p-8 rounded-2xl shadow-lg w-80 text-center">
+    <h2 class="text-2xl font-bold text-white mb-6">Signup</h2>
+
+    <form method="POST">
+        <input name="username" placeholder="Username"
+        class="w-full p-2 mb-4 rounded-lg bg-white/20 text-white placeholder-white outline-none" required>
+
+        <input name="password" type="password" placeholder="Password"
+        class="w-full p-2 mb-4 rounded-lg bg-white/20 text-white placeholder-white outline-none" required>
+
+
+        <input name="userId" type="number" placeholder="Provide your user Id"
+        class="w-full p-2 mb-4 rounded-lg bg-white/20 text-white placeholder-white outline-none" required>
+
+
+        <button class="w-full bg-green-500 hover:bg-green-600 text-white p-2 rounded-lg">
+            Create Account
+        </button>
+    </form>
+</div>
+
+</body>
+</html>
