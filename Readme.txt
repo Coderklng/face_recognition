@@ -132,8 +132,8 @@ IMPORTANT NOTES
 CONTACT / AUTHOR
 -------------------------------
 
-Created by: [Your Name]
-Email: [Your Email]
-Date: [Date]
+Created by: kartik sharma 
+Email: kkartiksharma999@gmail.com
+Date: 25/09/2024
 
 ===============================
